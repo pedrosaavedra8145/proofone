@@ -45,11 +45,12 @@ body
 #post
 {
     padding: 1em;
+}
 
 #footer
 {
-	backgroud: #777;
+	background: #777;
 	color: white;
-	text-alingn: center
+	text-align: center;
 	padding: 0.5em;
-}}
+}
